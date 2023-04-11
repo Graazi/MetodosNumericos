@@ -1,2 +1,2 @@
-# M-todosNum-ricos
+# MetodosNumericos
 Métodos Numéricos
