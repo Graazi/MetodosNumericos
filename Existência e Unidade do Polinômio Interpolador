@@ -1,0 +1,7 @@
+ Existência e Unidade do Polinômio Interpolador
+ 
+ Seja Pn(X) = a0 + a1x + a2x² + ... anx4
+ 
+ Devemos encontrar a0, a1, ..., a4
+ 
+  tal que Pn (x) = F(x) 
