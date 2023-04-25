@@ -1,0 +1,19 @@
+        Notação Matricial
+
+    Seja
+
+        Ln(n) = Gd * 
+
+        onde Gd é o produto dos elementos da diagonal principal da matriz G e G; é o produto dos elementos da ( i + 1 ) linha de G.
+
+        com
+
+        G = 
+
+        X  - X0     X0 - X1     X0 - X2
+        X1 - X0     X  - X1     X1 - X2
+        X2 - X0     X2 - X1     X  - X2 
+           .           .           .
+           .           .           .
+           .           .           .
+        Xn - X0     Xn - X1     Xn - X2
